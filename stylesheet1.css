@@ -1,0 +1,31 @@
+body{
+    background-color: yellow;
+    color: red;
+}
+
+h1{
+    color: pink;
+    background-color: red;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+nav{
+    width: 175px;
+    height: 100px;
+    display: inline-block;
+    background-color: tomato;
+    font-size: 15px;
+    color: ghostwhite
+}
+
+image{
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.MyClass{
+   color: linen;
+}

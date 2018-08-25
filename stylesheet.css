@@ -1,0 +1,57 @@
+body{
+    background-color: yellow ;
+    color: black;
+}
+
+#favoriteColor{
+    color: indigo;
+    font-size: 20px;
+}
+
+.myClass{
+    color: blue;
+    font-size: 30px;
+}
+
+
+img {
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    color: yellow;
+    background-color: red;
+    font-size:60px;
+    display: block;
+    text-align: center;
+    
+}
+article {
+    text-align: center;
+}
+
+footer  {
+    text-align: center;
+    font-style: oblique;
+    font-size: 30px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+article {
+    list-style-type: none;
+}
+
+ul  {
+    list-style-type: none;
+
+}
